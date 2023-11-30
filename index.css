@@ -30,22 +30,29 @@ body{
 }
 .lightbutton{
     width: fit-content;
+    justify-content: center;
+    width: 200px;
+    padding: 19px 35px;
     background-color: aliceblue;
     color: black;
     text-align: center;
     padding-inline: 1rem;
     padding-block: .75rem;
-    border-radius: 16px;
+    border-radius: 60px;
     border-color: black;
+    border: 3px solid black;
 }
 .darkbutton{
     width: fit-content;
+    justify-content: center;
+    width: 200px;
+    padding: 19px 35px;
     background-color: black;
     color: beige;
     text-align: center;
     padding-inline: 1rem;
     padding-block: .75rem;
-    border-radius: 16px;
+    border-radius: 60px;
 }
 .second{
     max-width: 700px;
